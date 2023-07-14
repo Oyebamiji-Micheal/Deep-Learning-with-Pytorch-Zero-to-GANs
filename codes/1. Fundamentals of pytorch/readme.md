@@ -1,5 +1,9 @@
 ## What are Tensors?
 
+<img src="../../images/tensors.jpg" width="800" height="400">
+
+<br />
+
 <p align="justify">
     No offense to the physicists. In the language of deep learning, a tensor is simply some number(scaler), vector(column matrix), 2d-array(matrix) or n-dimensional array.
 </p>
