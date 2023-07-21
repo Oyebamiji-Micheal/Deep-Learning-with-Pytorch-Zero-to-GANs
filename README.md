@@ -23,8 +23,10 @@
 ## Hands-on
 | S/N   |   Title   |   Description     |
 |:-----:|:---------:|:-----------------:|
-|   1   | [Fundamentals of Pytorch](#) | Introduction to Tensors \| Creating Tensors \| Tensor Operations |
-|   2   | [Gradient Descent and Linear Regression with Pytorch](#) |  How gradient descent algorithm works \|  Training a Linear Regression model from scratch \| 
+|   1   | [Fundamentals of Pytorch](https://github.com/Oyebamiji-Micheal/Deep-Learning-with-Pytorch-Zero-to-GANs/tree/main/codes/1.%20Fundamentals%20of%20pytorch) | Introduction to Tensors \| Creating Tensors \| Tensor Operations |
+|   2   | [Gradient Descent and Linear Regression with Pytorch](https://github.com/Oyebamiji-Micheal/Deep-Learning-with-Pytorch-Zero-to-GANs/tree/main/codes/2.%20Gradient%20Descent%20and%20Linear%20Regression%20with%20Pytorch) |  How gradient descent algorithm works \|  Training a Linear Regression model from scratch |
+|   3   | [Working with Images and Logistic Regression](https://github.com/Oyebamiji-Micheal/Deep-Learning-with-Pytorch-Zero-to-GANs/tree/main/codes/3.%20Working%20with%20Images%20and%20Logistic%20Regression) | Predicting handwritten digit using MNIST dataset \| Interpreting model outputs as probabilities using Softmax \| A new type of cost function - Cross Entropy |
+
 
 <br />
 
